@@ -14,7 +14,7 @@ Die meisten Informationen geben wir den Datenkracken freiwillig, wie in der Clou
 
 Um im Internet unsichtbar zu werden, muss man also aufhören, freiwillig diese Flyer mit persönlichen Informationen auszuhändigen. 
 
-#### Was man dagegen machen kann
+### Was man dagegen machen kann
 
 1. Starke Passwörter benutzen
    Starke Passwörter sind sehr lang und komplex. Es ist empfehlenswert, Passwörter mit 25 oder mehr Zeichen zu benutzen. Das klingt nach viel, ist aber notwendig, da Computer immer schneller werden und kurze Passwörter einfach zu knacken sind. Weil es schwierig ist, sich lange und komplexe Passwörter zu merken, kann man sich einen Satz nehmen, den man sich gut merken kann und gewisse Zeichen anhand von Regeln durch andere Zeichen ersetzen. Die Regeln sollten nicht zu einfach sein, zum Beispiel dass man Buchstaben durch ähnlich aussehende Zahlen und Symbole ersetzt, wie 4 = A, 3 = E, 7 = T oder @ = A. Die Regeln können auch daraus bestehen, dass ein Buchstabe durch mehrere Zeichen ersetzt werden, was das Passwort nicht nur länger, sondern auch sehr viel komplexer macht.
