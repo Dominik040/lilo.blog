@@ -5,7 +5,7 @@ draft = false
 pinned = false
 description = "In diesem Blog werde ich euch erklären wie, man im Internet völlig unsichtbar wird.\nIch habe diesen Blog in drei Stufen der Anonymität geteilt."
 +++
-### Stufe 1 der Anonymität: Schwer zu hacken sein
+# Stufe 1 der Anonymität: Schwer zu hacken sein
 
 In der ersten Stufe wird man nicht komplett unsichtbar, was für die meisten aber auch nicht nützlich ist.
 Wenn man sich online verstecken will, geht es vor allem darum, möglichst wenig Spuren zu hinterlassen und diese Spuren versuchen möglichst weit zu verteilen, sodass es schwierig wird, jemandem zurückzuverfolgen.
@@ -14,7 +14,7 @@ Die meisten Informationen geben wir den Datenkracken freiwillig, wie in der Clou
 
 Um im Internet unsichtbar zu werden, muss man also aufhören, freiwillig diese Flyer mit persönlichen Informationen auszuhändigen. 
 
-### Was man dagegen machen kann
+###### Was man dagegen machen kann
 
 1. Starke Passwörter benutzen
    Starke Passwörter sind sehr lang und komplex. Es ist empfehlenswert, Passwörter mit 25 oder mehr Zeichen zu benutzen. Das klingt nach viel, ist aber notwendig, da Computer immer schneller werden und kurze Passwörter einfach zu knacken sind. Weil es schwierig ist, sich lange und komplexe Passwörter zu merken, kann man sich einen Satz nehmen, den man sich gut merken kann und gewisse Zeichen anhand von Regeln durch andere Zeichen ersetzen. Die Regeln sollten nicht zu einfach sein, zum Beispiel dass man Buchstaben durch ähnlich aussehende Zahlen und Symbole ersetzt, wie 4 = A, 3 = E, 7 = T oder @ = A. Die Regeln können auch daraus bestehen, dass ein Buchstabe durch mehrere Zeichen ersetzt werden, was das Passwort nicht nur länger, sondern auch sehr viel komplexer macht.
@@ -26,7 +26,7 @@ Um diese Passwörter sicher zu speichern, sollte man diese Passwörter nicht dir
 3. Mehrere Email-Adressen benutzen
    Man kann für verschiedene Teile seines Lebens verschiedene Email-Adressen verwenden, zum Beispiel für Einkaufen und Social media. Wenn eine der Email-Adressen gehackt wird, sind nicht alle betroffen und Hacker haben nicht Zugriff auf dein gesamtes Online Leben.
 
-### Stufe 2: Schwer auffindbar werden
+# Stufe 2: Schwer auffindbar werden
 
 Um sich im Internet indentifizieren zu können, wird vor deine IP-Adresse benutzt, welche mit deinem Geräten und somit mit dir assoziiert wird. Sie ist einmalig und wiederspiegelt auch deinen Standort.
 
@@ -37,7 +37,7 @@ Um sich im Internet indentifizieren zu können, wird vor deine IP-Adresse benutz
 
 Du bist jetzt digital fast komplett unauffindbar 
 
-### Stufe 3: Totale Unsichtbarkeit
+# Stufe 3: Totale Unsichtbarkeit
 
 Im Internet komplett unsichtbar werden ist recht schwierig. Um jemanden tracken zu können, werden IP-Adresse, Betriebssystem, WLAN und sogar die Bildschrimauflösung benutzt.
 
@@ -52,12 +52,10 @@ Um eine anonyme Email-Adresse zu erstellen, brauchst du eine Telefonnummer, für
 
 Du musst auch aufpassen, dass du nichts suchst, was mit dir in Verbindung gebracht werden könnte, zum Beispiel Wetter in deiner Umgebung.
 
-### Zusammenfassung / Fazit
+# Zusammenfassung / Fazit
 
 Für die meisten wird Stufe 2 reichen, da die dritte Stufen zu viel Aufwand mit sich bringt, der sich nur  zu betreiben lohnt, wenn man von einer Regierung verfolgt wird.
 
 (Wenn du soweit gehst, musst du wahrscheinlich deine Persönlichkeit auch im öffentlichen Leben verstecken.)
-
-
 
 Link zu meinem Screencast: https://muristalden-my.sharepoint.com/personal/dominik_rueff_stud_muristalden_ch/_layouts/15/stream.aspx?id=%2Fpersonal%2Fdominik%5Frueff%5Fstud%5Fmuristalden%5Fch%2FDocuments%2FMicrosoft%20Teams%2DChatdateien%2FIm%20Internet%20unsichtbar%20werden%2Emp4&referrer=Teams%2ETEAMS%2DELECTRON&referrerScenario=p2p%5Fns%2Dbim&ga=1
