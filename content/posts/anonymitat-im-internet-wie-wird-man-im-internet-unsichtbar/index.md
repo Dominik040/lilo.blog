@@ -4,7 +4,11 @@ date = "2023-06-14"
 draft = false
 pinned = false
 description = "In diesem Blog werde ich euch erklären wie, man im Internet völlig unsichtbar wird.\nIch habe diesen Blog in drei Stufen der Anonymität geteilt."
+footnotes = "test"
 +++
+In diesem Blog werde ich euch erklären wie, man im Internet völlig unsichtbar wird.
+Ich habe diesen Blog in drei Stufen der Anonymität geteilt.
+
 # Stufe 1 der Anonymität: Schwer zu hacken sein
 
 In der ersten Stufe wird man nicht komplett unsichtbar, was für die meisten aber auch nicht nützlich ist.
