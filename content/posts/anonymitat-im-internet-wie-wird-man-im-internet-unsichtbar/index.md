@@ -4,7 +4,7 @@ date = "2023-06-14"
 draft = false
 pinned = false
 description = "In diesem Blog werde ich euch erklären wie, man im Internet völlig unsichtbar wird.\nIch habe diesen Blog in drei Stufen der Anonymität geteilt."
-footnotes = "test"
+footnotes = "Link zu meinem Screencast: https://muristalden-my.sharepoint.com/personal/dominik_rueff_stud_muristalden_ch/_layouts/15/stream.aspx?id=%2Fpersonal%2Fdominik%5Frueff%5Fstud%5Fmuristalden%5Fch%2FDocuments%2FMicrosoft%20Teams%2DChatdateien%2FIm%20Internet%20unsichtbar%20werden%2Emp4&referrer=Teams%2ETEAMS%2DELECTRON&referrerScenario=p2p%5Fns%2Dbim&ga=1"
 +++
 In diesem Blog werde ich euch erklären wie, man im Internet völlig unsichtbar wird.
 Ich habe diesen Blog in drei Stufen der Anonymität geteilt.
@@ -61,5 +61,3 @@ Du musst auch aufpassen, dass du nichts suchst, was mit dir in Verbindung gebrac
 Für die meisten wird Stufe 2 reichen, da die dritte Stufen zu viel Aufwand mit sich bringt, der sich nur  zu betreiben lohnt, wenn man von einer Regierung verfolgt wird.
 
 (Wenn du soweit gehst, musst du wahrscheinlich deine Persönlichkeit auch im öffentlichen Leben verstecken.)
-
-Link zu meinem Screencast: https://muristalden-my.sharepoint.com/personal/dominik_rueff_stud_muristalden_ch/_layouts/15/stream.aspx?id=%2Fpersonal%2Fdominik%5Frueff%5Fstud%5Fmuristalden%5Fch%2FDocuments%2FMicrosoft%20Teams%2DChatdateien%2FIm%20Internet%20unsichtbar%20werden%2Emp4&referrer=Teams%2ETEAMS%2DELECTRON&referrerScenario=p2p%5Fns%2Dbim&ga=1
