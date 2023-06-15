@@ -4,7 +4,7 @@ date = "2023-06-14"
 draft = false
 pinned = false
 description = "In diesem Blog werde ich euch erklären wie, man im Internet völlig unsichtbar wird.\nIch habe diesen Blog in drei Stufen der Anonymität geteilt."
-footnotes = "Link zu meinem Screencast: [https://muristalden-my.sharepoint.com/personal/dominik_rueff_stud_muristalden_ch/_layouts/15/stream.aspx?id=%2Fpersonal%2Fdominik%5Frueff%5Fstud%5Fmuristalden%5Fch%2FDocuments%2FMicrosoft%20Teams%2DChatdateien%2FIm%20Internet%20unsichtbar%20werden%2Emp4&referrer=Teams%2ETEAMS%2DELECTRON&referrerScenario=p2p%5Fns%2Dbim&ga=1](https://muristalden-my.sharepoint.com/personal/dominik_rueff_stud_muristalden_ch/_layouts/15/stream.aspx?id=%2Fpersonal%2Fdominik%5Frueff%5Fstud%5Fmuristalden%5Fch%2FDocuments%2FMicrosoft%20Teams%2DChatdateien%2FIm%20Internet%20unsichtbar%20werden%2Emp4&referrer=Teams%2ETEAMS%2DELECTRON&referrerScenario=p2p%5Fns%2Dbim&ga=1)"
+footnotes = "Link zu meinem Screencast: [](https://muristalden-my.sharepoint.com/personal/dominik_rueff_stud_muristalden_ch/_layouts/15/stream.aspx?id=%2Fpersonal%2Fdominik%5Frueff%5Fstud%5Fmuristalden%5Fch%2FDocuments%2FMicrosoft%20Teams%2DChatdateien%2FIm%20Internet%20unsichtbar%20werden%2Emp4&referrer=Teams%2ETEAMS%2DELECTRON&referrerScenario=p2p%5Fns%2Dbim&ga=1)<https://muristalden-my.sharepoint.com/:v:/r/personal/dominik_rueff_stud_muristalden_ch/Documents/Microsoft%20Teams-Chatdateien/Im%20Internet%20unsichtbar%20werden.mp4?csf=1&web=1&e=FWK3yj>"
 +++
 In diesem Blog werde ich euch erklären wie, man im Internet völlig unsichtbar wird.
 Ich habe diesen Blog in drei Stufen der Anonymität geteilt.
